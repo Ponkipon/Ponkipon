@@ -10,7 +10,9 @@
 - liquification
 - analytical analysis
 - Rats (those lil cheese eating gray guys)
-- Vibe coding is obsolete, real ones aura code.
+
+  
+***Vibe coding is obsolete, real ones aura code.***
 
 **Fun fact**:
 
