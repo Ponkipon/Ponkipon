@@ -4,6 +4,7 @@
 
 **Currently Learning**
 
+- Professional Markdown Tag distribution
 - Industrial confusion & inconviencience engineering
 - Force push and pray (done) 
 - verose abstraction (in the general sense as it applies to cubic regression)
